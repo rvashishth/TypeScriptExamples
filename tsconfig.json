@@ -1,0 +1,12 @@
+{
+	"compilerOptions":{
+		"module":"commonjs"
+	},
+	"files":[
+		"test.ts",
+		"test3.ts",
+		"staticVariableExample.ts",
+		"fatArrow.ts",
+		"classInheritanceExample.ts"
+	]
+}
